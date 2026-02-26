@@ -25,10 +25,8 @@ A simple **C# Console Application** to manage contacts with:
 ### Option 1: Using CLI
 
 1. Clone the repository:
-2.run
-3.there is menu will show up and u will choose from it
-4.save
-5.exit
-```bash
-git clone <your-repo-link>
-cd <repo-folder>
+2. run
+3. there is menu will show up and u will choose from it
+4. save
+5. exit
+
